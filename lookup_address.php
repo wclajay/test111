@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <?php
 //$postcode = $_REQUEST['postcode'];
 $postcode = "TN21 0UG";
